@@ -1,3 +1,6 @@
+*{
+    background-color: tan;
+}
 a:link{
     color: rgb(199, 36, 101);
     text-decoration: none;
@@ -14,4 +17,8 @@ a:active{
 a{
     font-size: large;
     font-weight: 500;
+}
+h1{
+    color: rgb(53, 0, 139);
+    background-color: cadetblue;
 }
