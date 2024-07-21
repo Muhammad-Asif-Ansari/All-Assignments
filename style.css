@@ -1,0 +1,25 @@
+*{
+    background: burlywood;
+}
+a:link{
+    color: rgb(199, 36, 101);
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(240, 134, 41);
+}
+a:visited{
+    color: rgb(23, 172, 112);
+}
+a:active{
+    color: rgb(30, 20, 220);
+}
+a{
+    font-size: large;
+    font-weight: bold;
+}
+h1{
+    font-size: xx-large;
+    font-weight: bold;
+    color: tomato;
+}
